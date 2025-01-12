@@ -1,3 +1,8 @@
 # Table of contents
 
-* [isorm-gitbook](README.md)
+* [Presentation](README.md)
+
+## Walkthroughs
+
+* [Getting started](walkthroughs/getting-started.md)
+* [Relationships](walkthroughs/relationships.md)
